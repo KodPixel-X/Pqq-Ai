@@ -1,6 +1,6 @@
 let input = prompt("Soruyu Yazınız. UYARI!!! ⚠️⚠️⚠️⚠️ Pqq-Ai yeni olduğundan çoğu soruları hatalı verir yada Hiç vermez: ");
 
-while (true) {
+
     if (input == "Merhaba"){
     alert("Merhaba Nasılsın");
     }
@@ -15,7 +15,6 @@ while (true) {
 
     if (input == "Çık") {
         alert("Görüşürüz");
-        break;
     }  
 
     if (input == "Sen Yerlimisin") {
@@ -25,4 +24,5 @@ while (true) {
     {
         alert("Türkiyeliyim");
     }
-}
+
+
